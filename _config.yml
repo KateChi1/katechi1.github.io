@@ -28,7 +28,6 @@ author:
   bio              : "PhD Candidate at the Fletcher School of Tufts University"
   location         : "Medford, Massachusetts"
   employer         : "Tufts University"
-  github           : "katechi1"
   uri              : # URL
   email            : "kate.chi@tufts.edu" 
 
@@ -36,9 +35,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=JYQUVXAAAAAJ&hl=en&oi=ao"
   orcid            : "https://orcid.org/0009-0007-2351-1718"
   researchgate     : "https://www.researchgate.net/profile/Kate-Chi-3"
-
-  bluesky          : "katehkchi.bsky.social"
-  twitter          : "_KateChi"
+  bluesky          : "@katehkchi.bsky.social"
+  twitter          : "@_KateChi"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
