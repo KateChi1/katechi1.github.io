@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Kate Hua-Ke Chi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate at the Fletcher School of Tufts University"
   location         : "Medford, Massachusetts"
   employer         : "Tufts University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-2351-1718"
   researchgate     : "https://www.researchgate.net/profile/Kate-Chi-3"
 
-  bluesky          : "@katehkchi.bsky.social"
+  bluesky          : "katehkchi.bsky.social"
   twitter          : "_KateChi"
   
 # Publication Category - The following the list of publication categories and their headings
