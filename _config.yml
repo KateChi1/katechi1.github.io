@@ -27,13 +27,11 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   location         : "Medford, Massachusetts"
-  employer         : "Red Brick University"
+  employer         : "Tufts University"
   uri              : # URL
   email            : "kate.chi@tufts.edu" 
 
   # 
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/0009-0007-2351-1718"
   researchgate     : "https://www.researchgate.net/profile/Kate-Chi-3"
