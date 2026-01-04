@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please reach out for a copy of my CV.
+Please email me at kate.chi@tufts.edu for a copy of my CV.
