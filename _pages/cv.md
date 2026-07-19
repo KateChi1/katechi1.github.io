@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-
+---
 Please email me at kate.chi@tufts.edu for a copy of my CV.
