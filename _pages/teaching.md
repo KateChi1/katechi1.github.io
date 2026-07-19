@@ -9,7 +9,7 @@ author_profile: true
 
 [2] Teaching Fellow for Melissa McCracken, Graduate-Level Module: Global Energy Systems,
 <br>
-    The Fletcher School of Tufts University, Fall 2025 [(Teaching Evaluation: 4.91/5)](/assets/Fall25-Teaching-Eval-extracted.pdf)
+    The Fletcher School of Tufts University, Fall 2025 [(Teaching Evaluation: 4.91/5)](/assets/Fa25-teachingeval_extr.pdf)
 
 [1] Teaching Fellow for Andre Switala, Intermediate Macroeconomic Theory,
 <br>
