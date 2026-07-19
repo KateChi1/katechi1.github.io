@@ -5,8 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Selected conference presentations:
 
+Selected conference presentations:
+---
 [8] Division 39: Science, Technology, and Environmental Politics, APSA, September 2026
 <br>
 [7] Philosophy, Politics & Economics Society Meeting, King’s College London, July 2026
