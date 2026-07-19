@@ -1,7 +1,10 @@
 ---
+layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+---
+
 ---
 
 [2] Teaching Fellow for Melissa McCracken, Graduate-Level Module: Global Energy Systems,
