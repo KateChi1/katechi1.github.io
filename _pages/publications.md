@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
 [3] Owusu-Mante, S., **Chi, K. H.** & Gopalakrishnan, T. (2025). [Sovereign green bonds in practice: Effectiveness as a climate finance instrument in emerging economies.](https://doi.org/10.1080/14693062.2025.2586572) *Climate Policy*, 1-15. https://doi.org/10.1080/14693062.2025.2586572
 
 [2] **Chi, K. H.** & McCracken, M. (2024). [Water usage in cooling systems for electricity production: An
