@@ -4,7 +4,6 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-# Presentations
 
 Selected conference presentations:
 
