@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ---
+
 [4] **Chi, K. H.** (2026). [State narratives of shale gas development: Evidence from a text-as-data study of the United States and China.](https://doi.org/10.1080/09644016.2026.2710466) *Environmental Politics*, 1-26. https://doi.org/10.1080/09644016.2026.2710466
 
 [3] Owusu-Mante, S., **Chi, K. H.** & Gopalakrishnan, T. (2025). [Sovereign green bonds in practice: Effectiveness as a climate finance instrument in emerging economies.](https://doi.org/10.1080/14693062.2025.2586572) *Climate Policy*, 1-15. https://doi.org/10.1080/14693062.2025.2586572
