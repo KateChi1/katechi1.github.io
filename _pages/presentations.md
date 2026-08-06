@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-*Selected conference presentations:*
+*Conferences in which I presented:*
 
 [8] Division 39: Science, Technology, and Environmental Politics, APSA, September 2026
 
