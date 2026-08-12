@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-[5] Yang, K., Liu, H. & **Chi, K. H.** (2026). Divergent paths towards the (de)acceleration of electric vehicle transitions: a comparative study of California, Michigan, and Texas. *Global Sustainability*, *Accepted*.
+[5] Yang, K., Liu, H. & **Chi, K. H.** (2026). Divergent paths towards the (de)acceleration of electric vehicle transitions: A comparative study of California, Michigan, and Texas. *Global Sustainability*, *Accepted*.
 
 [4] **Chi, K. H.** (2026). [State narratives of shale gas development: Evidence from a text-as-data study of the United States and China.](https://doi.org/10.1080/09644016.2026.2710466) *Environmental Politics*, 1-26. https://doi.org/10.1080/09644016.2026.2710466
 
