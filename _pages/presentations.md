@@ -16,7 +16,7 @@ author_profile: true
       <span>Philosophy, Politics &amp; Economics Society Meeting, King's College London, July 2026</span>
 
       <span>[6]</span>
-      <span>International Studies Association Midyear Conference, University of Pretoria, South Africa, June 2026</span>
+      <span>International Studies Association Midyear (ISA) Conference, University of Pretoria, South Africa, June 2026</span>
 
       <span>[5]</span>
       <span>UNFCCC Conference of the Parties (COP30) in Belém, Brazil, November 2025</span>
