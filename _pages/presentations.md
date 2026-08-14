@@ -34,7 +34,7 @@ author_profile: true
       <span>Energy &amp; Climate Workshop, Boston University Global Development Policy Center, November 2024</span>
     </div>
   </div>
-  <div style="flex: 1; max-width: 340px;">
+  <div style="flex: 1; max-width: 360px;">
     <img src="/images/ISA_2026.jpeg" alt="Presenting at the ISA Midyear Conference" style="width: 100%; border-radius: 8px;">
     <p style="font-size: 0.85em; color: #666; text-align: center; margin-top: 6px;">
       Taken in Pretoria, South Africa, June 2026
