@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+.page {
+  max-width: 100%;
+}
+</style>
 
 I am a fourth-year PhD Candidate at [The Fletcher School of Tufts University](https://fletcher.tufts.edu/) and a Research Fellow at the [Climate Policy Lab](https://www.climatepolicylab.org/). My dissertation research examines how the political and economic interests around fossil fuels came to be, why they persist, and what dynamics reinforce them over time. In my research, I employ mixed methods including statistical inference, geospatial analysis, surveys, and in-depth interviews. Prior to joining the doctoral program, I received my master's degree in economics from Boston University and a bachelor's degree in business analytics and economics from the George Washington University. My scholarly work has appeared in the *Environmental Research Letters*, *Climate Policy*, *Environmental Politics*, *Global Sustainability*, *The Conversation*, and elsewhere.  
 
