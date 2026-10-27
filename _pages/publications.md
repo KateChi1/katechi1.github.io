@@ -4,15 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
----
+<div markdown="0" style="display: grid; grid-template-columns: 2.2em minmax(0, 1fr); row-gap: 10px; font-size: 15px; line-height: 1.7;">
 
-<div markdown="0" style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px;">
   <span>[5]</span>
   <span>
-    Yang, K., Liu, H. & <strong>Chi, K. H.</strong> (2026). <a href="https://doi.org/10.1017/sus.2026.10091">Divergent paths towards the (de)acceleration of electric vehicle transitions: A comparative study of California, Michigan, and Texas. <em>Global Sustainability</em>, 9, e53, 1–14.
+    Yang, K., Liu, H. &amp; <strong>Chi, K. H.</strong> (2026).
+    <a href="https://doi.org/10.1017/sus.2026.10091">Divergent paths towards the (de)acceleration of electric vehicle transitions: A comparative study of California, Michigan, and Texas.</a>
+    <em>Global Sustainability</em>, 9, e53, 1–14.
     <details>
       <summary>Abstract</summary>
-      <p>Although socio-technical feedback studies have recently raised increasing interest in understanding the acceleration of sustainability transitions, limited studies can explain why these feedback loops differ across places. Thus, they provide limited explanations for why different places manifest different paces of low-carbon transitions. To address this gap, we develop a framework that links feedback loops with contextual moderators to reflect place-specific feedback dynamics.We identify five reinforcing loops: industrial transformation, technological change, infrastructure investment, behavior change, and environmental legitimacy, with two balancing loops rooted in fossil-fuel resistance and legacy automotive lock-ins. Additionally, we argue that state-level governance capacity and policy orientation perform as contextual moderators shaping the strength and interactions of these feedback loops. We apply our framework to a comparative case study of EV transitions in California, Texas, and Michigan to demonstrate how these feedback dynamics, together with their divergent contextual moderators, impact their different paces of EV transitions. Studying state-level EV transitions in the United States is particularly timely and policy-relevant, considering recent federal rollbacks.</p>
+      <p>Although socio-technical feedback studies have recently raised increasing interest in understanding the acceleration of sustainability transitions, limited studies can explain why these feedback loops differ across places. Thus, they provide limited explanations for why different places manifest different paces of low-carbon transitions. To address this gap, we develop a framework that links feedback loops with contextual moderators to reflect place-specific feedback dynamics. We identify five reinforcing loops: industrial transformation, technological change, infrastructure investment, behavior change, and environmental legitimacy, with two balancing loops rooted in fossil-fuel resistance and legacy automotive lock-ins. Additionally, we argue that state-level governance capacity and policy orientation perform as contextual moderators shaping the strength and interactions of these feedback loops. We apply our framework to a comparative case study of EV transitions in California, Texas, and Michigan to demonstrate how these feedback dynamics, together with their divergent contextual moderators, impact their different paces of EV transitions. Studying state-level EV transitions in the United States is particularly timely and policy-relevant, considering recent federal rollbacks.</p>
     </details>
   </span>
 
