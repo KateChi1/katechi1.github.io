@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-<div style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px; font-size: 15px;">
+<div style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px; font-size: 16px;">
   <span>[2]</span>
   <span>Teaching Fellow for Melissa McCracken, Graduate-Level Module: Global Energy Systems,<br>The Fletcher School of Tufts University, Fall 2025 (<a href="/assets/Fa25_teachingeval_extr.pdf">Teaching Evaluation: 4.91/5</a>)</span>
 
