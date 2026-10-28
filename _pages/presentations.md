@@ -12,6 +12,10 @@ author_profile: true
   <div style="flex: 2;">
     <p><em>Conferences in which I presented:</em></p>
     <div style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px; font-size: 17px;">
+      
+      <span>[9]</span>
+      <span>International Studies Association (ISA) Annual Conference, Atlanta, Georgia, March 2027, *scheduled*. </span>
+
       <span>[8]</span>
       <span>Division 39: Science, Technology, and Environmental Politics, American Political Science Association (APSA) in Boston, September 2026</span>
 
@@ -31,7 +35,7 @@ author_profile: true
       <span>Division 39: Science, Technology, and Environmental Politics, American Political Science Association (APSA) in Vancouver, September 2025</span>
 
       <span>[2]</span>
-      <span>Climate Multilateralism Workshop, School of Politics, University of Leeds, July 2025</span>
+      <span>Climate Multilateralism Workshop, School of Politics & International Studies, University of Leeds, July 2025</span>
 
       <span>[1]</span>
       <span>Energy &amp; Climate Workshop, Boston University Global Development Policy Center, November 2024</span>
