@@ -7,13 +7,18 @@ redirect_from:
   - /resume
 ---
 
----
+<hr>
 
-<div style="font-size: 17px;">
-  
-Please email me at kate.chi@tufts.edu for a copy of my full CV.
+<div style="font-size: 17px; line-height: 1.7;">
 
+<p>Please email me at <a href="mailto:kate.chi@tufts.edu">kate.chi@tufts.edu</a> for a copy of my full CV.</p>
 
-**Services**
-- Referee for *Environmental Research Communications*; *Environmental Research Letters*
-- Elected PhD Representative to The Fletcher School of Tufts University, 2025 – 2026
+<p><strong>Services</strong></p>
+
+<ul>
+  <li>Referee for <em>Environmental Research Communications</em> and <em>Environmental Research Letters</em></li>
+  <li>Elected PhD Representative to The Fletcher School of Tufts University, 2025–2026</li>
+</ul>
+
+</div>
+
