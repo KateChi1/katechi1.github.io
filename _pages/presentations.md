@@ -13,9 +13,6 @@ author_profile: true
     <p><em>Conferences in which I presented:</em></p>
     <div style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px; font-size: 17px;">
       
-      <span>[9]</span>
-      <span>International Studies Association (ISA) Annual Conference, Atlanta, Georgia, March 2027, *scheduled*. </span>
-
       <span>[8]</span>
       <span>Division 39: Science, Technology, and Environmental Politics, American Political Science Association (APSA) in Boston, September 2026</span>
 
