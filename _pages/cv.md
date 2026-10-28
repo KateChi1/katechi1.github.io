@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ---
+
+<div style="font-size: 17px;">
 Please email me at kate.chi@tufts.edu for a copy of my full CV.
-
-
 
 
 
