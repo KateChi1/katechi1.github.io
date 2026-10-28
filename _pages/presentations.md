@@ -8,7 +8,7 @@ author_profile: true
 <div style="display: flex; gap: 30px; align-items: flex-start;">
   <div style="flex: 2;">
     <p><em>Conferences in which I presented:</em></p>
-    <div style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px;">
+    <div style="display: grid; grid-template-columns: 2.2em 1fr; row-gap: 10px; font-size: 17px;">
       <span>[8]</span>
       <span>Division 39: Science, Technology, and Environmental Politics, American Political Science Association (APSA) in Boston, September 2026</span>
 
